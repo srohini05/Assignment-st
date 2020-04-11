@@ -1,0 +1,28 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "90695eee-490f-4b61-8d1e-4386a5d6cc99",
+		"displayName": "Remote Image: Images via URL"
+	},
+	"author": "Edwin Morris",
+	"keywords": [
+		"Image",
+		"Image Tag",
+		"Live Image",
+		"Image URL",
+		"Remote Image"
+	],
+	"dependencies": {},
+	"name": "@framer/ehmorris.remote-image-images-via-url",
+	"version": "1.3.0"
+}
