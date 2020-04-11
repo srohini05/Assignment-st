@@ -370,6 +370,24 @@ node_modules/@framer/kasimir.iphone-x-kit/code/Status Bar/Status_Bar.tsx
 node_modules/@framer/kasimir.iphone-x-kit/code/Home Button (iPhone X)/HomeButton.tsx
 node_modules/@framer/kasimir.iphone-x-kit/build/index.js
 node_modules/@framer/kasimir.iphone-x-kit/README.md
+node_modules/@framer/jordanframer.font-files/tsconfig.json
+node_modules/@framer/jordanframer.font-files/treeUpdates.json
+node_modules/@framer/jordanframer.font-files/server.log
+node_modules/@framer/jordanframer.font-files/package.json
+node_modules/@framer/jordanframer.font-files/metadata/icon.png
+node_modules/@framer/jordanframer.font-files/metadata/artwork.png
+node_modules/@framer/jordanframer.font-files/dist/index.js
+node_modules/@framer/jordanframer.font-files/design/document.json
+node_modules/@framer/jordanframer.font-files/design/assets/RBNo2.1a-Medium.ttf
+node_modules/@framer/jordanframer.font-files/design/assets/RBNo2.1a-Light.ttf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Ultra.otf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Light.otf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Book.otf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Bold.otf
+node_modules/@framer/jordanframer.font-files/code/canvas.tsx
+node_modules/@framer/jordanframer.font-files/code/Loader.tsx
+node_modules/@framer/jordanframer.font-files/code/File.tsx
+node_modules/@framer/jordanframer.font-files/README.md
 node_modules/@framer/guischneider.page-indicators/tsconfig.json
 node_modules/@framer/guischneider.page-indicators/package.json
 node_modules/@framer/guischneider.page-indicators/metadata/icon.png
@@ -385,6 +403,12 @@ node_modules/@framer/graz.wireframe-kit/metadata/artwork.png
 node_modules/@framer/graz.wireframe-kit/design/document.json
 node_modules/@framer/graz.wireframe-kit/build/index.js
 node_modules/@framer/graz.wireframe-kit/README.md
+node_modules/@framer/framer.device-skin-google-pixel-2-just-black/yarn.lock
+node_modules/@framer/framer.device-skin-google-pixel-2-just-black/package.json
+node_modules/@framer/framer.device-skin-google-pixel-2-just-black/index.ts
+node_modules/@framer/framer.device-skin-google-pixel-2-just-black/device.png
+node_modules/@framer/framer.device-skin-google-pixel-2-just-black/build/index.js.map
+node_modules/@framer/framer.device-skin-google-pixel-2-just-black/build/index.js
 node_modules/@framer/ehmorris.remote-image-images-via-url/tsconfig.json
 node_modules/@framer/ehmorris.remote-image-images-via-url/package.json
 node_modules/@framer/ehmorris.remote-image-images-via-url/metadata/icon.png
@@ -447,7 +471,6 @@ design/images/YVP4Tj6p3yshMllUPzqjzGuzU.png
 design/images/W01uqm9KsRxtSvLPCDKdqF7h4s.png
 design/images/SDp8hvTckJ9ofxcq9nnGkwby3ws.png
 design/images/OjCCW2NS6u4sB7GK8dnGoeEN8O4.png
-design/images/O82M3931qUHiLADETr4AQR9JmhI.png
 design/images/3OXUMvbkLm7DoDzSXVqt904sNFg.png
 design/images/2OFdhd4o8BGwMlhmtd6jH9MlvM.png
 build/vendors.js
